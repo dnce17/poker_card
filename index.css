@@ -1,0 +1,15 @@
+.card-ctnr {
+    width: 155px;
+    height: 225px;
+    border: 2px solid black;
+}
+
+/* .card-ctnr {
+    position: absolute;
+    width: max-content;
+} */
+
+.card {
+    position: absolute;
+    width: 150px;
+}
